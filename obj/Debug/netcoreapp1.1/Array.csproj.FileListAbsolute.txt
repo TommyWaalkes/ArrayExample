@@ -1,0 +1,11 @@
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\bin\Debug\netcoreapp1.1\Array.deps.json
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\bin\Debug\netcoreapp1.1\Array.runtimeconfig.json
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\bin\Debug\netcoreapp1.1\Array.runtimeconfig.dev.json
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\bin\Debug\netcoreapp1.1\Array.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\bin\Debug\netcoreapp1.1\Array.pdb
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.csprojResolveAssemblyReference.cache
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.AssemblyInfo.cs
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.dll
+c:\users\tommy\documents\visual studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.pdb
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Documents\Visual Studio 2017\Projects\Array\Array\obj\Debug\netcoreapp1.1\Array.AssemblyInfoInputs.cache
