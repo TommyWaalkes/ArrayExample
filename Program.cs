@@ -6,6 +6,7 @@ namespace Array
     {
         static void Main(string[] args)
         {
+            //Adding in a comment here we getting crazy
             int length = 8;
             int[] numbers = new int[length];
             numbers[0] = 10;
