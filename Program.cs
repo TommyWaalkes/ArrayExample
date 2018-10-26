@@ -8,7 +8,10 @@ namespace Array
         {
           //Comment fixed y'all
           //Let's checkout this cool branch stuff
-           //Cool comment 
+
+          //Let's add in another comment and see what happens 
+            //Cool comment 
+
             int length = 8;
             int[] numbers = new int[length];
             numbers[0] = 10;
