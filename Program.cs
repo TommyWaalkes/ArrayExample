@@ -8,8 +8,10 @@ namespace Array
         {
           //Comment fixed y'all
           //Let's checkout this cool branch stuff
+
           //Let's add in another comment and see what happens 
-          //When we push this 
+            //Cool comment 
+
             int length = 8;
             int[] numbers = new int[length];
             numbers[0] = 10;
@@ -30,7 +32,7 @@ namespace Array
 
             Console.WriteLine();
             Console.WriteLine("Foreach Example");
-
+                //that is a dandy comment you have
             foreach(int num in numbers)
             {
                 Console.WriteLine(num);
