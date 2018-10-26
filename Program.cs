@@ -6,6 +6,7 @@ namespace Array
     {
         static void Main(string[] args)
         {
+            //Timtom
             int length = 8;
             int[] numbers = new int[length];
             numbers[0] = 10;
