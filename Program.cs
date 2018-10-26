@@ -7,6 +7,7 @@ namespace Array
         static void Main(string[] args)
         {
           //Comment fixed y'all
+          //Let's checkout this cool branch stuff
             int length = 8;
             int[] numbers = new int[length];
             numbers[0] = 10;
